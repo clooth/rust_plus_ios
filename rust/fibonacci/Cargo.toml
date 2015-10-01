@@ -1,0 +1,8 @@
+[package]
+name = "fibonacci"
+version = "0.1.0"
+authors = ["Nico Hämäläinen <nico@sizeof.io>"]
+
+[lib]
+name = "fibonacci"
+crate-type = ["staticlib"]
